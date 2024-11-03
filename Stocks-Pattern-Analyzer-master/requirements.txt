@@ -1,0 +1,17 @@
+numpy
+yfinance
+pandas
+tqdm
+fastapi
+dash
+plotly
+matplotlib
+fastapi
+pydantic
+apscheduler
+uvicorn[standard]
+scikit-learn
+gunicorn
+scipy
+faiss-cpu
+psutil
